@@ -1,0 +1,2 @@
+caminho_arquivo = C:\arquivos
+caminho_backup_arquivo= C:\arquivos_backup
